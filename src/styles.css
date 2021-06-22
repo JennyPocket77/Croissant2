@@ -1,0 +1,16 @@
+body { 
+    background-color: #e6cca3;
+}
+
+h1, h2, p {
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+img {
+    max-width: 300px;
+}
+
+.croissant1 {
+    max-width: 100px;
+}
